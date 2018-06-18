@@ -500,3 +500,7 @@ Name, Organization, and (optionally) Contact Info
 * Lin Deng, Towson University
    * GitHub: dmark1021
    * Email: ldeng@towson.edu
+
+* Farhan Siddiqui, Dickinson College
+   * GitHub: siddiquf
+   * Email: siddiquf@dickinson.edu
